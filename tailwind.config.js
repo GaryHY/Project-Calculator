@@ -10,10 +10,13 @@ module.exports = {
     },
     extend: {
       colors: {
+        blackground: '#292D36',
+        touche: '#413F42',
         fullblack: '#272931',
         lightGrey: '#EEEFEF',
         darkGrey: '#8C9396',
         darkRose: '#C85C5D',
+        cyan: '#2596BE',
       },
     },
   },
